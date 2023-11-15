@@ -1,11 +1,13 @@
 <h1 align="center">Hi 👋, I'm Sharaf ElDin Shams ElDin</h1>
 <h3 align="center">Experienced Technical Project Manager | Software Development Expert | Entrepreneurship Enthusiast</h3>
 
-- 🔭 I’m currently working on [MisrElKheir Foundation website and mobile app](MEKEG.org)
+- 🔭 I’m currently working on [Rentool for rental payments](rentool.cloud)
 
 - 🌱 I’m currently learning **Docker, Sauce Labs, Redux, Ngrok, Colab, heroku, Nginx, jenkins**
 
-- 👯 I’m looking to collaborate on [Emkan for crowdfunding](emkan.com.sa)
+- 👯 Project i am proud of [MisrElKheir Foundation website and mobile app](MEKEG.org)
+
+- 🤝 Tech Startup i build [Emkan for crowdfunding](emkan.com.sa)
 
 - 💬 Ask me about **CI/CD , Python, business-planning ,hire and select teams ,agile technology ,laravel , Php, Leadership, Full-stack development ,Project management , Budgeting ,SQL ,Problem-solving , Negotiation ,Critical thinking , Database Design,Git,Html,Java,Ajial,microservices,Java Script jquery Layout,Linux,built a huge web and mobile application.**
 
